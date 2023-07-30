@@ -2,4 +2,4 @@
 
 First github Odin Project Assignment
 
-Hello Odin!
+Hello Odin! This is a modification I'm making to my readme to test if my git config's core.editor was set correctly.
